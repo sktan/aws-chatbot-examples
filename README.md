@@ -1,6 +1,6 @@
 # Welcome to my AWS Chatbot Examples Repository
 
-In this repository, I will be providing working code samples used for my "Building witgh AWS Chatbot" blog series.
+In this repository, I will be providing working code samples used for my "Building with AWS Chatbot" blog series.
 
 This will include both infrastructure as code (CDK) and the lambda function code so that deployment is as simple as possible.
 
@@ -14,8 +14,8 @@ This will include both infrastructure as code (CDK) and the lambda function code
 
 | Blog Post  | Code Reference |
 | ------------- | ------------- |
-| [Building with AWS Chatbot: Saying Hello to AWS Chatbot](https://www.sktan.com/blog/post/12-building-with-aws-chatbot-saying-hello-to-aws-chatbot/)  | Content Cell  |
-| [Building with AWS Chatbot: Approving CodePipeline Executions Through ChatOps](https://www.sktan.com/blog/post/13-building-with-aws-chatbot-approving-codepipeline-executions-through-chatops/)  | Content Cell  |
+| [Building with AWS Chatbot: Saying Hello to AWS Chatbot](https://www.sktan.com/blog/post/12-building-with-aws-chatbot-saying-hello-to-aws-chatbot/)  | [Code Sample](hello-world/)  |
+| [Building with AWS Chatbot: Approving CodePipeline Executions Through ChatOps](https://www.sktan.com/blog/post/13-building-with-aws-chatbot-approving-codepipeline-executions-through-chatops/)  | [Code Sample](codepipeline-approval/)  |
 
 
 ## How to Deploy
